@@ -1,4 +1,4 @@
-# Adobe Reader Puppet Module for Boxen
+# Adobe Reader Puppet Module for Boxen [![Build Status](https://travis-ci.org/boxen/puppet-adobe_reader.png)](https://travis-ci.org/boxen/puppet-adobe_reader)
 
 Install [Adobe Reader](http://www.adobe.com/support/downloads/product.jsp?platform=macintosh&product=10), the free standard for reliably viewing and interacting with PDF files.
 
