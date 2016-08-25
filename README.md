@@ -1,18 +1,7 @@
-# Adobe Reader Puppet Module for Boxen [![Build Status](https://travis-ci.org/boxen/puppet-adobe_reader.png)](https://travis-ci.org/boxen/puppet-adobe_reader)
+# Adobe Reader Puppet Module for Boxen
 
-Install [Adobe Reader](http://www.adobe.com/support/downloads/product.jsp?platform=macintosh&product=10), the free standard for reliably viewing and interacting with PDF files.
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-## Usage
-
-```puppet
-include adobe_reader
-```
-
-## Required Puppet Modules
-
-* `boxen`
-
-## Development
-
-Write code. Run `script/cibuild` to test it. Check the `script`
-directory for other useful tools.
+[1]: https://caskroom.github.io/
+[2]: https://git.io/v6NlB
